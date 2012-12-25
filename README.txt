@@ -17,3 +17,5 @@ Api demos is designed to use the compatibility library "android-support-v4.jar".
 It is available through the SDK Updater in the "Android Compatibility package".
 Once downloaded, copy the jar file into the ApiDemos project libs/ folder.
 (If using Eclipse, add it manually to the project build path).
+
+this is append text
